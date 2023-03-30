@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Islamic Duas</string>
+    <string name="dua1" translatable="false">Dua 1</string>
+    <string name="dua2" translatable="false">Dua 2</string>
+    <string name="dua3" translatable="false">Dua 3</string>
+    <string name="feeling" translatable="false">DUA for the following feelings !</string>
+    <string name="dua1d">"Allah is sufficient for me. There is no god worthy of worship except Him. I have placed my trust in Him only and He is the Lord of the Magnificent Throne."</string>
+    <string name="dua2d">” My Lord, I seek protection with You from the promptings of the devils; and I seek protection in You, my Lord, from their coming near me. (23:97-98).”</string>
+    <string name="dua3d">"O Allah! I seek refuge in You from the decline of Your blessings, the passing of safety, the sudden onset of Your punishment and from all that displeases you."</string>
+    <string name="back">back </string>
+    <string name="back1">back </string>
+    <string name="back2">back </string>
+</resources>
